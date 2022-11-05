@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/VladBasalyha/goit-react-hw-01-components.git/static/css/main.c30ecb24.css",
-    "main.js": "/VladBasalyha/goit-react-hw-01-components.git/static/js/main.03ed8834.js",
-    "static/media/default-image.jpg": "/VladBasalyha/goit-react-hw-01-components.git/static/media/default-image.90dc751e8e8e5557d629.jpg",
-    "index.html": "/VladBasalyha/goit-react-hw-01-components.git/index.html",
-    "main.c30ecb24.css.map": "/VladBasalyha/goit-react-hw-01-components.git/static/css/main.c30ecb24.css.map",
-    "main.03ed8834.js.map": "/VladBasalyha/goit-react-hw-01-components.git/static/js/main.03ed8834.js.map"
+    "main.css": "/VladBasalyha/goit-react-hw-01-components/static/css/main.c30ecb24.css",
+    "main.js": "/VladBasalyha/goit-react-hw-01-components/static/js/main.274297bd.js",
+    "static/media/default-image.jpg": "/VladBasalyha/goit-react-hw-01-components/static/media/default-image.90dc751e8e8e5557d629.jpg",
+    "index.html": "/VladBasalyha/goit-react-hw-01-components/index.html",
+    "main.c30ecb24.css.map": "/VladBasalyha/goit-react-hw-01-components/static/css/main.c30ecb24.css.map",
+    "main.274297bd.js.map": "/VladBasalyha/goit-react-hw-01-components/static/js/main.274297bd.js.map"
   },
   "entrypoints": [
     "static/css/main.c30ecb24.css",
-    "static/js/main.03ed8834.js"
+    "static/js/main.274297bd.js"
   ]
 }
