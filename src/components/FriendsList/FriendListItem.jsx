@@ -1,6 +1,6 @@
 import css from './FriendList.module.css';
 import defaultImage from '../images/default-image.jpg';
-import PropTypes, { object } from 'prop-types';
+import PropTypes from 'prop-types';
 
 export const FriendListItem = ({ isOnline, avatar = defaultImage, name }) => (
   <li className={css.friendInfo}>
