@@ -22,5 +22,5 @@ export const TransactionHistory = ({ transactions }) => (
   </table>
 );
 TransactionHistory.propTypes = {
-  transactions: PropTypes.arrayOf(object),
+  transactions: PropTypes.array.isRequired,
 };
