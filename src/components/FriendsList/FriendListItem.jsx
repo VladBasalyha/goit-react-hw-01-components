@@ -1,5 +1,6 @@
 import css from './FriendList.module.css';
 import defaultImage from '../images/default-image.jpg';
+import PropTypes, { object } from 'prop-types';
 
 export const FriendListItem = ({ isOnline, avatar = defaultImage, name }) => (
   <li className={css.friendInfo}>
@@ -14,3 +15,8 @@ export const FriendListItem = ({ isOnline, avatar = defaultImage, name }) => (
     <p className={css.friendName}>{name}</p>
   </li>
 );
+FriendListItem.propTypes = {
+  isOnline: PropTypes.bool.isRequired,
+  avatar: PropTypes.string.isRequired,
+  name: PropTypes.string.isRequired,
+};
